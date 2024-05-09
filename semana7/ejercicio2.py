@@ -5,8 +5,8 @@ porcentajes de una cesta de la compra, y una de las funciones anteriores, y util
 funcion pasada para aplicar los descuentos o el IVA a los productos de la cesta y
 devolver el precio final de la cesta.
 '''
-# diccionario de precio con su respectivo porcentaje de descuento
-# diccionario = {50:20, 30:5, 45:10}
+# diccionario de precios con su respectivo porcentajes de descuento
+# diccionario = {40:30, 40:15, 45:12}
 
 def crearDiccionario():
     diccionario={}
