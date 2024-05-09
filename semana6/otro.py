@@ -5,3 +5,5 @@ nombre=input("Ingrese el nombre:")
 num=int(input("Ingrese el numero:"))
 for i in range(num):
     print(nombre)
+
+# print(nombre +"\n" * (n))
