@@ -29,7 +29,7 @@ if num_palabras1 > 0:
     print(lista_palabras1)
 else:
     print("Por favor, ingrese un número mayor que cero")
-    exit()
+
 
 # Crear la segunda lista de palabras
 num_palabras2 = int(input("Ingrese el número de palabras que desea agregar a la segunda lista: "))
@@ -42,7 +42,7 @@ if num_palabras2 > 0:
     print(lista_palabras2)
 else:
     print("Por favor, ingrese un número mayor que cero")
-    exit()
+
 
 # Eliminar elementos repetidos de cada lista
 lista_palabras1 = eliminar_repetidos(lista_palabras1)
